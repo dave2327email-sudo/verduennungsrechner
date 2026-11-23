@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.verduennungsrechner"
+    namespace = "de.laborverduennungsrechner"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
